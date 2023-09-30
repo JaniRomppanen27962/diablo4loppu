@@ -20,7 +20,7 @@ ja listataan ne hahmon ja hahmoluokan lisäksi.
 
 **Edit** - kun haluat muokata listalla olevaa riviä
 
-![lopputyo3](https://github.com/JaniRomppanen27962/diablo4loppu/assets/131453279/67b1ff86-889e-4d77-accb-307df5cd8e4b)
+![lopputyo3](https://github.com/JaniRomppanen27962/diablo4loppu/assets/131453279/d5e5575d-80ae-4274-89b2-7718a3316e3c)
 
 **Delete** - kun haluat poistaa listalla olevan rivin
 
