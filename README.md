@@ -12,9 +12,15 @@ ja listataan ne hahmon ja hahmoluokan lisäksi.
 
 ## Ohjelman toiminta
 
+![lopputyo1](https://github.com/JaniRomppanen27962/diablo4loppu/assets/131453279/c043221e-59c9-4ae2-b4a3-7882b9040f45)
+
 **Create new** - kun haluat lisätä listaan rivin
 
+![lopputyo2](https://github.com/JaniRomppanen27962/diablo4loppu/assets/131453279/560ec92b-5d73-488e-88f7-42756a6cb309)
+
 **Edit** - kun haluat muokata listalla olevaa riviä
+
+![lopputyo3](https://github.com/JaniRomppanen27962/diablo4loppu/assets/131453279/67b1ff86-889e-4d77-accb-307df5cd8e4b)
 
 **Delete** - kun haluat poistaa listalla olevan rivin
 
